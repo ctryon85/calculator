@@ -26,6 +26,7 @@ button {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     border: orangered 2px solid;
+    box-shadow: 4px 4px 10px orangered;
 }
 #display {
     width: 100%;
